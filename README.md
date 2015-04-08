@@ -1,6 +1,8 @@
 # diceroller
 Katie Harold dice roller program
 
+>> Demo includes my personal homepage... <<
+
 
 Well I basically edited the original picker code to make a dice roller 
 program. I am having problems figuring out how to get the code into
